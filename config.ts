@@ -33,7 +33,7 @@ export const DATE_AND_TIME = getDateAndTime();
 export const AI_NAME = "interview.ai";
 export const OWNER_NAME = "Alex Tang";
 
-export const WELCOME_MESSAGE = `Hello! I'm ${AI_NAME}, an AI assistant created by ${OWNER_NAME}.`
+export const WELCOME_MESSAGE = `Hello! I'm ${AI_NAME}, an AI assistant created by ${OWNER_NAME}. I have access to a variety of Leetcode questions that are tagged for various companies, and can run technical interviews to help prepare you, as well as a wide variety of various behvaioral interview questions, and resources on how to frame your responses.`
 
 export const CLEAR_CHAT_TEXT = "New";
 
